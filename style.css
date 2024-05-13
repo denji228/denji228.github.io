@@ -727,6 +727,9 @@ h1 {
     width: 100%;
   }
 }
+.welc {
+  transition: transform 1000s;
+}
 .welc:hover{
   transition: transform 1000s;
   transform: rotate(84755deg)
